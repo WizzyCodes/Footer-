@@ -1,0 +1,209 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header Styling */
+  .Header {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e0ecfd;
+    position: fixed;
+  }
+  
+  .Header-Wrapp {
+    height: 100%;
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+  }
+  
+  .Logo {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .All {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+  }
+  
+  .Navigations {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    transition: all 350ms;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+  
+    nav {
+      cursor: pointer;
+    }
+    nav:hover {
+      background-color: rgb(215, 214, 214);
+      padding: 10px;
+      transition: all 350ms;
+      border-radius: 5px;
+    }
+  }
+  
+  .CTA-Buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .CTA-Earn {
+    background-color: rgb(215, 214, 214);
+    color: blue;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+  }
+  .CTA-Login {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #e0ecfd;
+    font-weight: bold;
+  }
+  .CTA-Login:hover {
+    background-color: rgb(215, 214, 214);
+    transition: all 350ms;
+  }
+  .CTA-Apply {
+    border: none;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .CTA-Apply:hover {
+    background-color: white;
+    color: blue;
+    transition: all 500ms;
+  }
+  /* Footer Sytylings */
+  
+  .Footer-Section {
+    height: 100vh;
+    width: 100%;
+    background-color: #000812;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+  }
+  
+  .Footer-Main {
+    height: 100%;
+    width: 85%;
+  }
+  
+  .Foota-Holder {
+    height: 80%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Foota-Line {
+    height: 20%;
+    width: 100%;
+    background-color: pink;
+  }
+  
+  .About-Company {
+    width: 25%;
+    height: 100%;
+    background-color: peru;
+  }
+  
+  .All-FooterNavs {
+    width: 75%;
+    height: 100%;
+    background-color: springgreen;
+  }
+  
+  .Navs-Up {
+    width: 100%;
+    height: 30%;
+    background-color: purple;
+  }
+  .Navs-Down {
+    width: 100%;
+    height: 70%;
+    background-color:  darkorchid;
+  }
+  
+  Tel: 0800ALTSCHOOL
+© 2024 AltSchool. All rights reserved
+
+In Partnership with
+
+Verification of Exemption from BPPE in line with the State of California
+
+bppe logo
+Accredited by ASIC (Accreditation Service for International Schools, Colleges, and Universities)
+
+ASIC logo
+Schools
+
+School of Engineering
+School of Product
+School of Data
+School of Business
+School of Creative Economy
+Companies
+
+Hire our Grads
+Collaborate with us
+About us
+
+Our story
+Contact us
+Earn Program
+Resources
+
+Privacy policy
+Terms of service
+Affiliate Policy
+FAQs
+Our Blog
+Scholarships
+Featured Courses
+
+JavaScript for Beginners
+SQL for Beginners
+UI/UX Foundation
+Fintech Product Management
+Data Modelling for Beginners
+Navigating the Music Business in Africa: Afrobeats case study
+Content Mastery for African Creators
+High-Impact Selling: From Prospecting to Closing
+Launchpad
+Diploma Programs
+
+Backend Engineering
+Cloud Engineering
+Frontend Engineering
+Product Design
+Product Management
+Product Marketing
+Data Analysis
+Data Engineering
+Data Science
